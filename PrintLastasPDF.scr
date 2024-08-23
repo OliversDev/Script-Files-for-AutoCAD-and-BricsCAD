@@ -1,0 +1,1 @@
+(command "-PLOT" "NO" "" "previous plot" "" (strcat (getvar "DWGPREFIX") (vl-filename-base(getvar "DWGNAME"))".pdf") "" "")

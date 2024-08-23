@@ -1,0 +1,2 @@
+(command "-PURGE" "A" "*" "N")
+(command "-PURGE" "R" "*" "N")
