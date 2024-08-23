@@ -1,1 +1,1 @@
-(command "-XBIND" "*" "N")
+(command "-XREF" "BIND" "*")
